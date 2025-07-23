@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "text": "Finish Flask backend integration",
+        "priority": "high",
+        "dueDate": "2025-07-20",
+        "completed": false,
+        "createdAt": "2025-07-18T10:00:00"
+    },
+    {
+        "id": 2,
+        "text": "Test task filters and modals",
+        "priority": "medium",
+        "dueDate": "2025-07-21",
+        "completed": true,
+        "createdAt": "2025-07-17T15:30:00"
+    },
+    {
+        "id": 3,
+        "text": "Style the UI and add animations",
+        "priority": "low",
+        "dueDate": "2025-07-22",
+        "completed": false,
+        "createdAt": "2025-07-16T08:45:00"
+    }
+]
